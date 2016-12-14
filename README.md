@@ -1,2 +1,0 @@
-# Breakfast-Club
-Group project
